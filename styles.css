@@ -3,3 +3,7 @@
      --cor-de-fundo:#144e64;
      --fonte-principal: inter;
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
